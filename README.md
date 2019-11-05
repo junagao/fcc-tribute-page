@@ -7,8 +7,8 @@ This is a tribute page build as part of the freeCodeCamp Responsive Web Design P
 For a demo, check out https://codepen.io/junagao/pen/QddOpY
 
 <p align="center">
-  <img src="./images/hs-desktop.png" alt="drawing" width="768"/>
-  <img src="./images/hs-mobile.png" alt="drawing" width="400"/>
+  <img src="./images/dbt-desktop.png" alt="david bowie tribute - desktop version" width="768"/>
+  <img src="./images/dbt-mobile.png" alt="david bowie tribute - mobile version" width="400"/>
 </p>
 
 ## 📚 Tech Stack
